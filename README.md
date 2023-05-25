@@ -1,0 +1,2 @@
+# Project-QR code component
+ 
