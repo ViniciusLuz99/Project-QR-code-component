@@ -6,7 +6,7 @@ This is my solution to the QR code component challenge on Frontend Mentor. The c
 
 ### Screenshot
 
-![Screenshot](./images/image-qr-code.png)
+![Screenshot](./design/desktop-design.jpg)
 
 ### Links
 
